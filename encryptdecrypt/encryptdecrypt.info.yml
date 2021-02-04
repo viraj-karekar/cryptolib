@@ -1,0 +1,5 @@
+name: Encrypt Decrypt
+type: module
+description: 'Allows to encrypt and decrypt the string.'
+package: Custom
+core_version_requirement: ^8 || ^9

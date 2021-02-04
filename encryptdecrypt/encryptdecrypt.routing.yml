@@ -1,0 +1,7 @@
+encryptdecrypt.config_form:
+  path: '/admin/config/encryptdecrypt/form'
+  defaults:
+    _title: 'EncryptDecrypt form'
+    _form: '\Drupal\encryptdecrypt\Form\EncryptDecryptForm'
+  requirements:
+    _permission: 'access content'
